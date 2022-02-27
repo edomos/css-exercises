@@ -1,0 +1,8 @@
+/* Add color, background color, text align, and bold to html div */
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
